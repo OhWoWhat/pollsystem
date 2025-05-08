@@ -1,0 +1,3 @@
+# pollsystem
+VERY SIMPLE AND BASIC VOTING/POLLING SYSTEM<br>
+<strong>SYSTEM ONLY SAVES DATA LOCALLY "(localStorage)" NO mySQL INVOLVED YET</strong> 
